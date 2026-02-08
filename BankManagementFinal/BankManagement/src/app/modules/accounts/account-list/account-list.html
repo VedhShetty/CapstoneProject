@@ -1,0 +1,40 @@
+<div class="container mt-4">
+
+  <!-- ✅ Heading only when data exists -->
+  <h3 class="mb-3" *ngIf="accounts.length > 0">
+    All Accounts
+  </h3>
+
+  <!-- Table -->
+  <table *ngIf="accounts.length > 0"
+         class="table table-hover table-bordered shadow-sm">
+
+    <thead class="table-dark text-center">
+      <tr>
+        <th>User ID</th>
+        <th>Account Number</th>
+        <th>Account Type</th>
+        <th>Balance</th>
+      </tr>
+    </thead>
+
+    <tbody class="align-middle text-center">
+      <tr *ngFor="let a of accounts">
+        <td class="fw-bold text-primary">{{ a.userId }}</td>
+        <td class="fw-bold">{{ a.accountNumber }}</td>
+        <td>
+          <span class="badge"
+                [ngClass]="{
+                  'bg-primary': a.accountType === 'SAVINGS',
+                  'bg-info': a.accountType !== 'SAVINGS'
+                }">
+            {{ a.accountType }}
+          </span>
+        </td>
+        <td class="fw-bold">₹ {{ a.balance }}</td>
+      </tr>
+    </tbody>
+
+  </table>
+
+</div>

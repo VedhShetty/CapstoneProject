@@ -1,0 +1,61 @@
+<div class="container mt-4">
+
+  <!-- ✅ Heading shows only when customers exist -->
+  <h3 class="mb-3" *ngIf="users.length > 0">
+    Customers
+  </h3>
+
+  <!-- ✅ Table shows only when customers exist -->
+  <table *ngIf="users.length > 0"
+         class="table table-hover table-bordered shadow-sm">
+
+    <thead class="table-dark text-center">
+      <tr>
+        <th>User ID</th>
+        <th>Full Name</th>
+        <th>Username</th>
+        <th>Email</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+
+    <tbody class="align-middle text-center">
+
+      <tr *ngFor="let u of users; trackBy: trackByUserId">
+
+        <!-- User ID -->
+        <td class="fw-bold">{{ u.userId }}</td>
+
+        <!-- Full Name -->
+        <td class="text-start">
+          {{ u.firstName }} {{ u.lastName }}
+        </td>
+
+        <!-- Username -->
+        <td class="text-muted">
+          {{ u.username }}
+        </td>
+
+        <!-- Email -->
+        <td class="text-primary">
+          {{ u.email }}
+        </td>
+
+        <!-- Status -->
+        <td>
+          <span class="badge"
+                [ngClass]="{
+                  'bg-success': u.status === 'ACTIVE',
+                  'bg-secondary': u.status !== 'ACTIVE'
+                }">
+            {{ u.status }}
+          </span>
+        </td>
+
+      </tr>
+
+    </tbody>
+
+  </table>
+
+</div>

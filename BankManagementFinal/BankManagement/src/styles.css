@@ -1,0 +1,14 @@
+.login-card{
+  width:380px;
+  border-radius:15px;
+}
+
+.dashboard-card{
+  padding:25px;
+  border-radius:15px;
+}
+
+.form-card{
+  width:450px;
+  border-radius:15px;
+}

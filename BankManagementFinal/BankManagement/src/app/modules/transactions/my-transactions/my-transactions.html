@@ -1,0 +1,72 @@
+<div class="container mt-4">
+
+    <div class="card shadow-lg p-4">
+  
+      <h3 class="mb-4 text-center">My Transactions</h3>
+  
+      <div class="row mb-3">
+  
+        <div class="col-md-9">
+          <input
+            class="form-control"
+            placeholder="Enter Account Number"
+            [(ngModel)]="accountNumber">
+        </div>
+  
+        <div class="col-md-3 d-grid">
+          <button class="btn btn-primary" (click)="load()">
+            Load Transactions
+          </button>
+        </div>
+  
+      </div>
+  
+      <table class="table table-hover table-bordered">
+  
+        <thead class="table-dark text-center">
+  <tr>
+    <th>Account</th>
+    <th>Type</th>
+    <th>Amount</th>
+    <th>Date</th>
+  </tr>
+</thead>
+
+<tbody class="text-center">
+
+  <tr *ngFor="let t of transactions">
+
+    <!-- 👇 FROM / TO ACCOUNT -->
+    <td>{{ getRelatedAccount(t) }}</td>
+
+    <td>
+      <span
+        class="badge"
+        [ngClass]="{
+          'bg-success': t.transactionType==='TRANSFER_IN',
+          'bg-danger': t.transactionType==='TRANSFER_OUT'
+        }">
+        {{t.transactionType}}
+      </span>
+    </td>
+
+    <td>₹ {{t.amount}}</td>
+    <td>{{t.transactionTime | date:'medium'}}</td>
+
+  </tr>
+
+  <tr *ngIf="transactions.length===0">
+    <td colspan="4" class="text-muted">
+      No transactions found
+    </td>
+  </tr>
+
+</tbody>
+
+  
+      </table>
+  
+    </div>
+  
+  </div>
+  

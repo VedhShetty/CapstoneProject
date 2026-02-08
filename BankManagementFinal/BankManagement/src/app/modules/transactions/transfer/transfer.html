@@ -1,0 +1,33 @@
+<div class="container mt-4">
+
+  <!-- Alert ONLY when no account -->
+  <div *ngIf="noAccounts" class="alert alert-danger text-center">
+    You don’t have an account yet. Fund transfer is not available.
+  </div>
+
+  <!-- Fund transfer form ONLY when account exists -->
+  <div *ngIf="!noAccounts" class="col-md-4 card p-4 shadow mx-auto">
+
+    <h3 class="text-center">Fund Transfer</h3>
+    
+    <input class="form-control mb-2"
+      placeholder="From Account Number"
+      [(ngModel)]="fromAccount">
+    
+    <input class="form-control mb-2"
+      placeholder="To Account Number"
+      [(ngModel)]="toAccount">
+    
+    <input class="form-control mb-3"
+      type="number"
+      placeholder="Amount"
+      [(ngModel)]="amount">
+    
+    <button class="btn btn-primary w-100"
+      (click)="transfer()">
+      Transfer
+    </button>
+
+  </div>
+
+</div>

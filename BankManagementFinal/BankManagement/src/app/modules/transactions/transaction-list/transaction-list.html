@@ -1,0 +1,61 @@
+<div class="container mt-4">
+
+  <h3 class="mb-3" *ngIf="transactions.length > 0">
+    All Transactions (Admin)
+  </h3>
+
+  <table *ngIf="transactions.length > 0"
+         class="table table-bordered table-hover">
+
+    <thead class="table-primary">
+      <tr>
+        <th>#</th>
+        <th>Account</th>
+        <th>Description</th>
+        <th>Amount</th>
+        <th>Type</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let t of transactions; let i = index">
+
+        <!-- Row number -->
+        <td>{{ i + 1 }}</td>
+
+        <!-- Account -->
+        <td class="fw-bold">{{ t.accountNumber }}</td>
+
+        <!-- Description -->
+        <td>{{ t.description }}</td>
+
+        <!-- Amount -->
+        <td class="fw-bold">₹ {{ t.amount }}</td>
+
+        <!-- Type -->
+        <td>
+          <span class="badge"
+                [ngClass]="{
+                  'bg-danger': t.transactionType === 'TRANSFER_OUT',
+                  'bg-success': t.transactionType === 'TRANSFER_IN'
+                }">
+            {{ t.transactionType }}
+          </span>
+        </td>
+
+        <!-- Date -->
+        <td>{{ t.createdAt | date:'short' }}</td>
+
+      </tr>
+    </tbody>
+
+  </table>
+
+  <!-- Empty state -->
+  <div *ngIf="transactions.length === 0"
+       class="text-muted text-center mt-4">
+    No transactions found
+  </div>
+
+</div>

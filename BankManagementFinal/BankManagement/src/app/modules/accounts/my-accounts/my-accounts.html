@@ -1,0 +1,32 @@
+<div class="container mt-4">
+
+  <!-- Alert message -->
+  <div *ngIf="noAccounts" class="alert alert-warning">
+    You don’t have any accounts yet.
+  </div>
+
+  <!-- Show heading ONLY when data exists -->
+  <h4 *ngIf="myAccounts.length > 0">My Accounts</h4>
+
+  <table class="table table-hover shadow"
+         *ngIf="myAccounts.length > 0">
+
+    <thead class="table-primary">
+      <tr>
+        <th>Account No</th>
+        <th>Type</th>
+        <th>Balance</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let acc of myAccounts">
+        <td>{{ acc.accountNumber }}</td>
+        <td>{{ acc.accountType }}</td>
+        <td>{{ acc.balance }}</td>
+      </tr>
+    </tbody>
+
+  </table>
+
+</div>

@@ -1,0 +1,58 @@
+<div class="container col-md-5 mt-5 card p-4 shadow">
+
+    <h3 class="text-center mb-3">Add Customer</h3>
+    
+    <input class="form-control mb-2"
+     placeholder="First Name"
+     [(ngModel)]="user.firstName">
+    
+    <input class="form-control mb-2"
+     placeholder="Last Name"
+     [(ngModel)]="user.lastName">
+    
+    <input class="form-control mb-2"
+     placeholder="Username"
+     [(ngModel)]="user.username">
+    
+    <input class="form-control mb-2"
+     type="password"
+     placeholder="Password"
+     [(ngModel)]="user.passwordHash">
+    
+    <input class="form-control mb-2"
+     placeholder="Email"
+     [(ngModel)]="user.email">
+    
+    <input class="form-control mb-2"
+     type="number"
+     placeholder="Phone"
+     [(ngModel)]="user.phone">
+    
+    <input class="form-control mb-2"
+     placeholder="House No / Street"
+     [(ngModel)]="user.addressLine1">
+    
+    <input class="form-control mb-2"
+     placeholder="Area / Landmark"
+     [(ngModel)]="user.addressLine2">
+    
+    <input class="form-control mb-2"
+     placeholder="City"
+     [(ngModel)]="user.city">
+    
+    <input class="form-control mb-2"
+     placeholder="State"
+     [(ngModel)]="user.state">
+    
+    <input class="form-control mb-3"
+     type="number"
+     placeholder="Postal Code"
+     [(ngModel)]="user.postalCode">
+    
+    <button class="btn btn-success w-100"
+     (click)="saveCustomer()">
+    Create Customer
+    </button>
+    
+    </div>
+    

@@ -1,0 +1,23 @@
+import { ComponentFixture, TestBed } from '@angular/core/testing';
+
+import { MyAccountsComponent } from './my-accounts';
+
+describe('MyAccounts', () => {
+  let component: MyAccountsComponent;
+  let fixture: ComponentFixture<MyAccountsComponent>;
+
+  beforeEach(async () => {
+    await TestBed.configureTestingModule({
+      imports: [MyAccountsComponent]
+    })
+    .compileComponents();
+
+    fixture = TestBed.createComponent(MyAccountsComponent);
+    component = fixture.componentInstance;
+    await fixture.whenStable();
+  });
+
+  it('should create', () => {
+    expect(component).toBeTruthy();
+  });
+});
