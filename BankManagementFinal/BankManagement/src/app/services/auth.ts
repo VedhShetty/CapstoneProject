@@ -4,13 +4,11 @@ import { Injectable } from '@angular/core';
 @Injectable({ providedIn: 'root' })
 export class AuthService {
 
-  private readonly baseUrl = 'http://localhost:8083/api/users';
+  private readonly baseUrl = 'https://capstoneazure-cseqhzdsa3d6dcb6.centralus-01.azurewebsites.net/api/users';
 
   constructor(private http: HttpClient) {}
 
-  // ======================
-  // API
-  // ======================
+
   login(username: string, password: string) {
     return this.http.post<any>(`${this.baseUrl}/login`, {
       username,
@@ -18,9 +16,6 @@ export class AuthService {
     });
   }
 
-  // ======================
-  // STORAGE (CRITICAL)
-  // ======================
   saveUser(user: any) {
     if (!user) return;
 
@@ -34,9 +29,6 @@ export class AuthService {
     );
   }
 
-  // ======================
-  // AUTH STATE (FIXED)
-  // ======================
   isLoggedIn(): boolean {
     const role = localStorage.getItem('role');
     const userId = localStorage.getItem('userId');
@@ -47,9 +39,6 @@ export class AuthService {
     return localStorage.getItem('role') === 'ADMIN';
   }
 
-  // ======================
-  // GETTERS (NULL-SAFE)
-  // ======================
   getRole(): string | null {
     return localStorage.getItem('role');
   }
@@ -70,9 +59,7 @@ export class AuthService {
     return localStorage.getItem('email') ?? '';
   }
 
-  // ======================
-  // LOGOUT
-  // ======================
+
   logout() {
     localStorage.removeItem('userId');
     localStorage.removeItem('role');

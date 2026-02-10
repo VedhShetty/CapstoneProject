@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { TransactionService } from '../../../services/transaction';
-import { AccountService } from '../../../services/account'; // ✅ ADDED
+import { AccountService } from '../../../services/account'; 
 
 @Component({
   selector:'app-transfer',
@@ -10,20 +10,20 @@ import { AccountService } from '../../../services/account'; // ✅ ADDED
   imports:[CommonModule,FormsModule],
   templateUrl:'./transfer.html'
 })
-export class TransferComponent implements OnInit {   // ✅ implements OnInit
+export class TransferComponent implements OnInit {   
 
   fromAccount = '';
   toAccount = '';
   amount:number = 0;
 
-  noAccounts: boolean = false; // ✅ ADDED
+  noAccounts: boolean = false; 
 
   constructor(
     private service:TransactionService,
-    private accountService: AccountService // ✅ ADDED
+    private accountService: AccountService 
   ){}
 
-  ngOnInit(): void { // ✅ ADDED
+  ngOnInit(): void { 
     this.accountService.getMyAccounts()
       .subscribe(res => {
         if (res.success && res.account.length === 0) {
@@ -35,7 +35,7 @@ export class TransferComponent implements OnInit {   // ✅ implements OnInit
 
   transfer(){
 
-    if(this.noAccounts){ // ✅ ADDED
+    if(this.noAccounts){ 
       alert("You don’t have an account yet. Fund transfer is not available.");
       return;
     }

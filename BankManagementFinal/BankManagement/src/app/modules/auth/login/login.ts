@@ -37,7 +37,7 @@ export class LoginComponent{
                     },
                     error: (err:any) => {
                       if(err.error && err.error.message){
-                        alert(err.error.message);   // 👈 shows backend message
+                        alert(err.error.message);   
                       }else{
                         alert("Invalid username or password");
                       }

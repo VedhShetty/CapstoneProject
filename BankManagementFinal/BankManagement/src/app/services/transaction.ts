@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 })
 export class TransactionService {
 
-  private baseUrl = "http://localhost:8083/api/transactions";
+  private baseUrl = "https://capstoneazure-cseqhzdsa3d6dcb6.centralus-01.azurewebsites.net/api/transactions";
 
   constructor(private http: HttpClient) {}
 
@@ -19,7 +19,7 @@ export class TransactionService {
     };
   }
 
-  // ✅ FUND TRANSFER
+  
   transfer(data:any){
     return this.http.post<any>(
       `${this.baseUrl}/transfer`,
@@ -28,7 +28,7 @@ export class TransactionService {
     );
   }
 
-  // ✅ ALL TRANSACTIONS OF ACCOUNT
+  
   getMyTransactions(accountNumber:string){
     return this.http.get<any>(
       `${this.baseUrl}/account/${accountNumber}`,
@@ -36,7 +36,7 @@ export class TransactionService {
     );
   }
 
-  // ✅ MONEY RECEIVED (TRANSFER_IN)
+  
   getReceivedMoney(accountNumber:string){
     return this.http.get<any>(
       `${this.baseUrl}/received/${accountNumber}`,

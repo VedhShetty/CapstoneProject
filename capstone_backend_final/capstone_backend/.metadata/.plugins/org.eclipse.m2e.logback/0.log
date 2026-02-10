@@ -92,3 +92,507 @@
 2026-02-08 21:19:24,728 [Worker-31: Launching BankingAccountManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2026-02-08 21:19:24,755 [Worker-31: Launching BankingAccountManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2026-02-08 21:19:24,759 [Worker-31: Launching BankingAccountManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-08 22:02:14,554 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2026-02-08 22:02:34,206 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [299])
+2026-02-08 22:02:34,209 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2026-02-08 22:02:34,210 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2026-02-08 22:02:34,211 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2026-02-08 22:02:34,212 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2026-02-08 22:02:34,212 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2026-02-08 22:02:34,212 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2026-02-08 22:02:34,212 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2026-02-08 22:02:34,212 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2026-02-08 22:02:34,213 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2026-02-08 22:02:34,213 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2026-02-08 22:02:34,213 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2026-02-08 22:02:34,213 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2026-02-08 22:02:34,213 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2026-02-08 22:02:34,213 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2026-02-08 22:02:34,213 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2026-02-08 22:02:34,214 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2026-02-08 22:02:34,214 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2026-02-08 22:02:34,214 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2026-02-08 22:02:34,214 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2026-02-08 22:02:34,214 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2026-02-08 22:02:34,215 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2026-02-08 22:02:34,215 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2026-02-08 22:02:34,215 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2026-02-08 22:02:34,215 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2026-02-08 22:02:34,215 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2026-02-08 22:02:34,216 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2026-02-08 22:02:34,218 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2026-02-08 22:02:34,218 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2026-02-08 22:02:34,218 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2026-02-08 22:02:34,218 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2026-02-08 22:02:34,219 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2026-02-08 22:02:34,219 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2026-02-08 22:02:34,221 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2026-02-08 22:02:34,221 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2026-02-08 22:02:34,221 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [520])
+2026-02-08 22:02:34,222 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2026-02-08 22:02:34,222 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2026-02-08 22:02:34,222 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2026-02-08 22:02:34,222 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2026-02-08 22:02:34,222 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2026-02-08 22:02:34,222 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2026-02-08 22:02:34,222 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2026-02-08 22:02:34,223 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2026-02-08 22:02:34,223 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2026-02-08 22:02:34,223 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2026-02-08 22:02:34,223 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2026-02-08 22:02:34,223 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2026-02-08 22:02:34,223 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2026-02-08 22:02:34,226 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement":
+2026-02-08 22:02:34,226 [Worker-31: Launching BankingAccountManagement (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2026-02-08 22:26:01,016 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [299])
+2026-02-08 22:26:01,017 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2026-02-08 22:26:01,017 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2026-02-08 22:26:01,017 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2026-02-08 22:26:01,017 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2026-02-08 22:26:01,017 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2026-02-08 22:26:01,018 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2026-02-08 22:26:01,018 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2026-02-08 22:26:01,018 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2026-02-08 22:26:01,018 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2026-02-08 22:26:01,018 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2026-02-08 22:26:01,018 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2026-02-08 22:26:01,019 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2026-02-08 22:26:01,020 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2026-02-08 22:26:01,020 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2026-02-08 22:26:01,020 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2026-02-08 22:26:01,020 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2026-02-08 22:26:01,020 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2026-02-08 22:26:01,020 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2026-02-08 22:26:01,021 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2026-02-08 22:26:01,021 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2026-02-08 22:26:01,021 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2026-02-08 22:26:01,021 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2026-02-08 22:26:01,021 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2026-02-08 22:26:01,021 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2026-02-08 22:26:01,021 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2026-02-08 22:26:01,022 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2026-02-08 22:26:01,022 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2026-02-08 22:26:01,022 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2026-02-08 22:26:01,022 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2026-02-08 22:26:01,022 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2026-02-08 22:26:01,022 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2026-02-08 22:26:01,022 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2026-02-08 22:26:01,022 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2026-02-08 22:26:01,023 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2026-02-08 22:26:01,023 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2026-02-08 22:26:01,023 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2026-02-08 22:26:01,023 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [520])
+2026-02-08 22:26:01,023 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2026-02-08 22:26:01,023 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2026-02-08 22:26:01,024 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2026-02-08 22:26:01,024 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2026-02-08 22:26:01,024 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2026-02-08 22:26:01,024 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2026-02-08 22:26:01,024 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2026-02-08 22:26:01,024 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2026-02-08 22:26:01,024 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2026-02-08 22:26:01,024 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2026-02-08 22:26:01,025 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2026-02-08 22:26:01,025 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2026-02-08 22:26:01,025 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2026-02-08 22:26:01,026 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement":
+2026-02-08 22:26:01,026 [Worker-45: Launching BankingAccountManagement (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2026-02-08 22:26:01,155 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-08 22:26:01,166 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-08 22:26:01,172 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-08 22:27:25,358 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [299])
+2026-02-08 22:27:25,359 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2026-02-08 22:27:25,359 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2026-02-08 22:27:25,359 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2026-02-08 22:27:25,359 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2026-02-08 22:27:25,359 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2026-02-08 22:27:25,359 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2026-02-08 22:27:25,359 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2026-02-08 22:27:25,359 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2026-02-08 22:27:25,360 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2026-02-08 22:27:25,361 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2026-02-08 22:27:25,361 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2026-02-08 22:27:25,361 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2026-02-08 22:27:25,361 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2026-02-08 22:27:25,361 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2026-02-08 22:27:25,361 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2026-02-08 22:27:25,361 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2026-02-08 22:27:25,361 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2026-02-08 22:27:25,362 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2026-02-08 22:27:25,363 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2026-02-08 22:27:25,363 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2026-02-08 22:27:25,363 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2026-02-08 22:27:25,363 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2026-02-08 22:27:25,363 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2026-02-08 22:27:25,363 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2026-02-08 22:27:25,363 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2026-02-08 22:27:25,364 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2026-02-08 22:27:25,364 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [520])
+2026-02-08 22:27:25,364 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2026-02-08 22:27:25,364 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2026-02-08 22:27:25,364 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2026-02-08 22:27:25,364 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2026-02-08 22:27:25,364 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2026-02-08 22:27:25,364 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2026-02-08 22:27:25,365 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2026-02-08 22:27:25,365 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2026-02-08 22:27:25,365 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2026-02-08 22:27:25,365 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2026-02-08 22:27:25,365 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2026-02-08 22:27:25,365 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2026-02-08 22:27:25,365 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2026-02-08 22:27:25,367 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement":
+2026-02-08 22:27:25,367 [Worker-54: Launching BankingAccountManagement (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2026-02-08 22:54:22,565 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-02-08 22:54:23,565 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.banking:BankingAccountManagement:0.0.1-SNAPSHOT @ C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\pom.xml.
+2026-02-08 22:54:24,728 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankingAccountManagement/src/main/java
+2026-02-08 22:54:24,730 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/main/resources
+2026-02-08 22:54:24,731 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/main/resources
+2026-02-08 22:54:24,731 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankingAccountManagement/src/test/java
+2026-02-08 22:54:24,732 [Worker-61: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/test/resources
+2026-02-08 22:54:25,030 [Worker-61: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2026-02-08 22:54:25,458 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-08 22:54:25,490 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-08 22:54:25,495 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-08 22:55:29,276 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-08 22:55:29,277 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-08 22:55:29,280 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-08 22:55:51,572 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-08 22:55:51,573 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-08 22:55:51,575 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:03:18,126 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-02-09 01:03:19,069 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.banking:BankingAccountManagement:0.0.1-SNAPSHOT @ C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\pom.xml.
+2026-02-09 01:03:24,702 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankingAccountManagement/src/main/java
+2026-02-09 01:03:24,703 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/main/resources
+2026-02-09 01:03:24,704 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/main/resources
+2026-02-09 01:03:24,704 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankingAccountManagement/src/test/java
+2026-02-09 01:03:24,705 [Worker-82: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/test/resources
+2026-02-09 01:03:25,142 [Worker-82: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 6.00 sec, update config takes 0.00 sec 
+2026-02-09 01:03:26,180 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:03:26,197 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:03:26,204 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:03:47,896 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2026-02-09 01:03:57,492 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [299])
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2026-02-09 01:03:57,493 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2026-02-09 01:03:57,494 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2026-02-09 01:03:57,495 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2026-02-09 01:03:57,495 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2026-02-09 01:03:57,495 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2026-02-09 01:03:57,495 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2026-02-09 01:03:57,495 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2026-02-09 01:03:57,495 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2026-02-09 01:03:57,495 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2026-02-09 01:03:57,495 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2026-02-09 01:03:57,496 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2026-02-09 01:03:57,497 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2026-02-09 01:03:57,497 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2026-02-09 01:03:57,497 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2026-02-09 01:03:57,497 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2026-02-09 01:03:57,497 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2026-02-09 01:03:57,497 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2026-02-09 01:03:57,497 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2026-02-09 01:03:57,497 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2026-02-09 01:03:57,498 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2026-02-09 01:03:57,498 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [520])
+2026-02-09 01:03:57,498 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2026-02-09 01:03:57,498 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2026-02-09 01:03:57,498 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2026-02-09 01:03:57,498 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2026-02-09 01:03:57,499 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2026-02-09 01:03:57,499 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2026-02-09 01:03:57,500 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2026-02-09 01:03:57,500 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2026-02-09 01:03:57,500 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2026-02-09 01:03:57,500 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2026-02-09 01:03:57,500 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2026-02-09 01:03:57,500 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2026-02-09 01:03:57,500 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2026-02-09 01:03:57,501 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement":
+2026-02-09 01:03:57,501 [Worker-86: Launching BankingAccountManagement (5)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2026-02-09 01:03:58,006 [Worker-88: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.banking:BankingAccountManagement:0.0.1-SNAPSHOT @ C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\pom.xml.
+2026-02-09 01:03:58,718 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:03:58,719 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:03:58,723 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:08:47,416 [Worker-85: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:318)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'plugins' (position: START_TAG seen ...</plugins>\n\t\t<plugins>... @82:12) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'plugins' (position: START_TAG seen ...</plugins>\n\t\t<plugins>... @82:12) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:1047)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2364)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2026-02-09 01:08:48,702 [Worker-95: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:587)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:487)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:366)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:318)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Duplicated tag: 'plugins' (position: START_TAG seen ...</plugins>\n\t\t<plugins>... @82:12) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:96)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Duplicated tag: 'plugins' (position: START_TAG seen ...</plugins>\n\t\t<plugins>... @82:12) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkFieldWithDuplicate(MavenXpp3Reader.java:141)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseBuild(MavenXpp3Reader.java:1047)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2364)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:623)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	... 26 common frames omitted
+2026-02-09 01:09:43,524 [Worker-96: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.banking:BankingAccountManagement:0.0.1-SNAPSHOT @ C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\pom.xml.
+2026-02-09 01:09:44,182 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:09:44,194 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:09:44,197 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:09:45,474 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:09:45,477 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:09:45,481 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:09:57,501 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-02-09 01:09:57,752 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.banking:BankingAccountManagement:0.0.1-SNAPSHOT @ C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\pom.xml.
+2026-02-09 01:09:58,209 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankingAccountManagement/src/main/java
+2026-02-09 01:09:58,210 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/main/resources
+2026-02-09 01:09:58,211 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/main/resources
+2026-02-09 01:09:58,211 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BankingAccountManagement/src/test/java
+2026-02-09 01:09:58,212 [Worker-83: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BankingAccountManagement/src/test/resources
+2026-02-09 01:09:58,445 [Worker-83: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2026-02-09 01:09:58,774 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:09:58,785 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:09:58,788 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:10:10,574 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2026-02-09 01:10:15,903 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234 [299])
+2026-02-09 01:10:15,904 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234
+2026-02-09 01:10:15,904 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\aopalliance-1.0.jar
+2026-02-09 01:10:15,905 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\guice-5.1.0.jar
+2026-02-09 01:10:15,905 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpclient-4.5.14.jar
+2026-02-09 01:10:15,905 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\httpcore-4.4.16.jar
+2026-02-09 01:10:15,905 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jansi-2.4.0.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\jcl-over-slf4j-1.7.36.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-artifact-3.9.6.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-builder-support-3.9.6.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-compat-3.9.6.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-core-3.9.6.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-embedder-3.9.6.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-3.9.6.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-model-builder-3.9.6.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-plugin-api-3.9.6.jar
+2026-02-09 01:10:15,906 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-repository-metadata-3.9.6.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-api-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-connector-basic-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-impl-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-named-locks-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-provider-3.9.6.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-spi-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-file-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-http-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-transport-wagon-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-resolver-util-1.9.18.jar
+2026-02-09 01:10:15,907 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-3.9.6.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-settings-builder-3.9.6.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\maven-shared-utils-3.3.4.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-build-api-0.0.7.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-cipher-2.0.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-classworlds-2.7.0.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-component-annotations-2.1.0.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-interpolation-1.26.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-sec-dispatcher-2.0.jar
+2026-02-09 01:10:15,908 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\plexus-utils-3.5.1.jar
+2026-02-09 01:10:15,909 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-file-3.5.3.jar
+2026-02-09 01:10:15,909 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-3.5.3.jar
+2026-02-09 01:10:15,909 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-http-shared-3.5.3.jar
+2026-02-09 01:10:15,909 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.600.20231203-1234\jars\wagon-provider-api-3.5.3.jar
+2026-02-09 01:10:15,909 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.0.0.jre [10])
+2026-02-09 01:10:15,909 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava_33.0.0.jre.jar
+2026-02-09 01:10:15,909 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [520])
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\slf4j.api_2.0.13.jar
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [22])
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [20])
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.6.0 [46])
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.cli_1.6.0.jar
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [47])
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [53])
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\org.apache.commons.lang3_3.14.0.jar
+2026-02-09 01:10:15,910 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [11])
+2026-02-09 01:10:15,911 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\ROG\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2026-02-09 01:10:15,912 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement":
+2026-02-09 01:10:15,912 [Worker-96: Launching BankingAccountManagement (6)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean install
+2026-02-09 01:24:15,978 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:24:15,986 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:24:15,988 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:36:21,659 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:36:21,692 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:36:21,696 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:53:32,848 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:53:32,862 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:53:32,865 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:53:52,534 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:53:52,543 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:53:52,545 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 01:59:24,928 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 01:59:24,957 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 01:59:24,960 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 02:03:12,431 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 02:03:12,466 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 02:03:12,469 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 08:43:04,109 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 08:43:04,170 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 08:43:04,213 [Worker-130: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 08:44:35,122 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 08:44:35,131 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 08:44:35,134 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:02:36,695 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:02:36,703 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:02:36,706 [Worker-137: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:11:29,442 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:11:29,458 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:11:29,462 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:13:06,912 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:13:06,951 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:13:06,955 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:13:46,871 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:13:46,876 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:13:46,879 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:14:46,226 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:14:46,235 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:14:46,237 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:15:10,597 [Worker-141: Launching BankingAccountManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:15:10,603 [Worker-141: Launching BankingAccountManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:15:10,606 [Worker-141: Launching BankingAccountManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:17:45,017 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:17:45,022 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:17:45,023 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:18:16,440 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:18:16,445 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:18:16,447 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:19:27,834 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:19:27,839 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:19:27,841 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:34:37,470 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:34:37,480 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:34:37,486 [Worker-149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 09:51:12,809 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 09:51:12,883 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 09:51:12,909 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-09 10:40:19,984 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-09 10:40:20,024 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-09 10:40:20,027 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources
+2026-02-10 08:35:51,705 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-02-10 08:35:51,872 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-02-10 08:35:51,891 [Worker-264: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\ROG\Downloads\capstone_backend_final\capstone_backend\BankingAccountManagement\src\test\resources

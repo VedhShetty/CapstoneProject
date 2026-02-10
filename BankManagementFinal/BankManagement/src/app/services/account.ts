@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 })
 export class AccountService {
 
-  private baseUrl = "http://localhost:8083/api/accounts";
+  private baseUrl = "https://capstoneazure-cseqhzdsa3d6dcb6.centralus-01.azurewebsites.net/api/accounts";
 
   constructor(private http: HttpClient) {}
 

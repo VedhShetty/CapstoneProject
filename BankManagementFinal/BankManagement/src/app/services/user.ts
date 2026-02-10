@@ -4,11 +4,11 @@ import { Injectable } from '@angular/core';
 @Injectable({ providedIn: 'root' })
 export class UserService {
 
-  private readonly baseUrl = 'http://localhost:8083/api/users';
+  private readonly baseUrl = 'https://capstoneazure-cseqhzdsa3d6dcb6.centralus-01.azurewebsites.net/api/users';
 
   constructor(private http: HttpClient) {}
 
-  // ✅ Centralized headers (admin + customer safe)
+  // (admin + customer safe)
   private getHeaders() {
     const role = localStorage.getItem('role');
     const userId = localStorage.getItem('userId');
@@ -21,7 +21,7 @@ export class UserService {
     };
   }
 
-  // ✅ ADMIN: Get all customers
+  //  Get all customers
   getCustomers() {
     return this.http.get<any>(
       `${this.baseUrl}/customers`,
@@ -29,7 +29,7 @@ export class UserService {
     );
   }
 
-  // ✅ ADMIN: Create customer
+  //  Create customer
   addCustomer(data: any) {
     return this.http.post<any>(
       `${this.baseUrl}/register`,

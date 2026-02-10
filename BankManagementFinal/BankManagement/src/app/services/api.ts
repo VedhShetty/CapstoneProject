@@ -4,7 +4,7 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 @Injectable({ providedIn: 'root' })
 export class ApiService {
 
-  BASE_URL = 'http://localhost:8083/api';
+  BASE_URL = 'https://capstoneazure-cseqhzdsa3d6dcb6.centralus-01.azurewebsites.net/api';
 
   constructor(private http: HttpClient) {}
 
